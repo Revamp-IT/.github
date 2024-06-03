@@ -1,9 +1,9 @@
 {
-    "name": "Node.JS Frontend",
-    "description": "Revamp IT BD Node.JS Frontend",
+    "name": "Revamp IT BD",
+    "description": "Revamp IT - Build & Deploy Node.JS Frontend",
     "iconName": "octicon zap",
     "categories": [
-        "Continuous integration", "Deployment", "React"
+        "Continuous integration", "Deployment", "React", "npm", "JavaScript", "TypeScript"
     ],
     "filePatterns": [
         "package.json$",
