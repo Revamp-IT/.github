@@ -1,0 +1,11 @@
+{
+    "name": "Node.JS Frontend",
+    "description": "Revamp IT BD Node.JS Frontend",
+    "iconName": "octicon zap",
+    "categories": [
+        "Continuous integration", "Deployment", "React"
+    ],
+    "filePatterns": [
+        "package.json$",
+    ]
+}
