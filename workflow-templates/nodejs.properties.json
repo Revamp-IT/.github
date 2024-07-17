@@ -1,6 +1,6 @@
 {
     "name": "Revamp IT BD",
-    "description": "Revamp IT - Build & Deploy Node.JS Frontend",
+    "description": "Revamp IT - Build & Deploy Node.JS App",
     "iconName": "octicon zap",
     "categories": [
         "Continuous integration", "Deployment", "React", "npm", "JavaScript", "TypeScript"
