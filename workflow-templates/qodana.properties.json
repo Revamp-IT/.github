@@ -1,6 +1,6 @@
 {
-    "name": "Revamp IT BD",
-    "description": "Revamp IT - Build & Deploy Node.JS App",
+    "name": "Revamp IT Qodana Scan",
+    "description": "Revamp IT - Qodana Scan Node.JS App",
     "iconName": "octicon zap",
     "categories": [
         "Continuous integration", "Deployment", "React", "npm", "JavaScript", "TypeScript"
